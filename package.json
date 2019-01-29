@@ -1,0 +1,24 @@
+{
+  "name": "miageserver",
+  "version": "1.0.0",
+  "description": "Serveur du projet de Javascript",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ncalley/JavascriptProject.git"
+  },
+  "keywords": [
+    "MIAGE",
+    "server",
+    "javascript"
+  ],
+  "author": "NCalley",
+  "license": "CECILL-B",
+  "bugs": {
+    "url": "https://github.com/Ncalley/JavascriptProject/issues"
+  },
+  "homepage": "https://github.com/Ncalley/JavascriptProject#readme"
+}
